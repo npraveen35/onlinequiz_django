@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+<html>
+<head>
+
+<h1>===> * ONECLOUD CONSULTING * <===</h1>
+</head>
+<body>
+<style type="text/css">
+body {background-color:yellow}
+</style>
+
+<p> ONLINE QUIZ </p>
+<input type="submit" value="ADMIN" />
+<A HREF="http://127.0.0.1:8000/admin/">Click Here for Admin login portal </A> 
+<input type="submit" value=" LIST OF TESTS" />
+<A HREF="http://127.0.0.1:8000/onlinequiz/">Click Here to get list of tests </A>
+
+</body>
+</html>
